@@ -19,4 +19,10 @@ if [ -x /usr/bin/dircolors ]; then
     alias egrep='egrep --color=auto'
 fi
 
-## dircolors文件就是上面提到的./dircolors 
+## dircolors文件就是上面提到的./dircolors
+
+## reference list 
+### https://github.com/seebi/dircolors-solarized/blob/master/README.md  
+a awesome project 
+### https://www.jianshu.com/p/0f556c6c4ec8  
+a very clear tutorial  
